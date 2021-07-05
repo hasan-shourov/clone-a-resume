@@ -1,15 +1,17 @@
 body{
     font-family: 'Open Sans', sans-serif;
+    max-width: 100%;
     
 }
 section{
     display: flex;
-    flex-wrap: wrap;
+    max-width: 100%;
     
 }
 .sec1{
     background-image: url(../my-image/top-banner.png);
     background-repeat: no-repeat;
+    
     margin: -10px;
 }
 .first{
