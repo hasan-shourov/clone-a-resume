@@ -9,7 +9,7 @@ section{
     
 }
 .sec1{
-    background-image: url(../my-image/top-banner.png);
+    background-image: url(/my-image/top-banner.png);
     background-repeat: no-repeat;
     
     margin: -10px;
@@ -47,7 +47,7 @@ button {
     cursor: pointer;
 }
 .sec2{
-    background-image: url(../my-image/dream-bg.png);
+    background-image: url(/my-image/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
     margin-right: -10px;
@@ -55,7 +55,7 @@ button {
 
 .sec3{
 justify-content: center;
-background-image: url(../my-image/exp-bg.png);
+background-image: url(/my-image/exp-bg.png);
 background-repeat: no-repeat;
 background-position: 0 50px;
 margin-left: -10px;
